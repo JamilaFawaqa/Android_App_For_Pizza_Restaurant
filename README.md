@@ -81,5 +81,13 @@ The application uses:
 - **Database**: SQLite  
 - **REST Client**: HttpURLConnection / Retrofit (based on implementation)  
 - **UI**: Navigation Drawer, Fragments, Animations (Frame/Tween), Toast notifications  
-- **Storage**: SharedPreferences  
+- **Storage**: SharedPreferences
+  
+---
 
+## 📱 App Interfaces
+
+Here are some screenshots of the app in action:
+
+<img src="demo1.png" >
+<img src="demo2.png" >
